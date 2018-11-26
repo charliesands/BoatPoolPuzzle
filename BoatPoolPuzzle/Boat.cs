@@ -27,7 +27,7 @@ namespace BoatPoolPuzzle
         }
         public virtual string move()
         {
-            return "drift";
+            return " drift ";
         }
     }
 
@@ -51,7 +51,7 @@ namespace BoatPoolPuzzle
     {
         public override string move()
         {
-            return "hoist sail";
+            return " hoist sail ";
         }
     }
 }
